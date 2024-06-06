@@ -31,7 +31,7 @@ El proyecto deberia estar corriendo si se muestra el siguiente mensaje
 
 ![SRC](/docs/src.png "Carpeta SRC")
 
-Esta apliacción va a llamar a una api llamada https://randomuser.me/, la cual trae X cantidad de personas, esto lo podemos manejar en el servicio `UserService.ts`
+Esta aplicación va a llamar a una api llamada https://randomuser.me/, la cual trae X cantidad de personas, esto lo podemos manejar en el servicio `UserService.ts`
 
 ![USER](/docs/userservice.png "USER")
 
